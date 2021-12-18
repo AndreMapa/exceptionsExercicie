@@ -1,0 +1,4 @@
+# exceptionsExercicie
+
+## Language used
+- Java
